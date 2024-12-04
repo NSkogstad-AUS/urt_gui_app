@@ -1,0 +1,10 @@
+/Users/nicolaiskogstad/[ CUSTOM PROJECTS ]/urt_gui_app/target/debug/deps/libegui_winit-478224bd2c95b65e.rmeta: /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/lib.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/clipboard.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/screen_reader.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/window_settings.rs
+
+/Users/nicolaiskogstad/[ CUSTOM PROJECTS ]/urt_gui_app/target/debug/deps/libegui_winit-478224bd2c95b65e.rlib: /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/lib.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/clipboard.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/screen_reader.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/window_settings.rs
+
+/Users/nicolaiskogstad/[ CUSTOM PROJECTS ]/urt_gui_app/target/debug/deps/egui_winit-478224bd2c95b65e.d: /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/lib.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/clipboard.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/screen_reader.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/window_settings.rs
+
+/Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/lib.rs:
+/Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/clipboard.rs:
+/Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/screen_reader.rs:
+/Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui-winit-0.19.0/src/window_settings.rs:

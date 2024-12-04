@@ -1,0 +1,10 @@
+/Users/nicolaiskogstad/[ CUSTOM PROJECTS ]/urt_gui_app/target/debug/deps/libowned_ttf_parser-9096a4255a88f948.rmeta: /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/lib.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/convert.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/owned.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/preparse.rs
+
+/Users/nicolaiskogstad/[ CUSTOM PROJECTS ]/urt_gui_app/target/debug/deps/libowned_ttf_parser-9096a4255a88f948.rlib: /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/lib.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/convert.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/owned.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/preparse.rs
+
+/Users/nicolaiskogstad/[ CUSTOM PROJECTS ]/urt_gui_app/target/debug/deps/owned_ttf_parser-9096a4255a88f948.d: /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/lib.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/convert.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/owned.rs /Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/preparse.rs
+
+/Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/lib.rs:
+/Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/convert.rs:
+/Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/owned.rs:
+/Users/nicolaiskogstad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.24.0/src/preparse.rs:

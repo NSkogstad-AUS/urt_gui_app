@@ -4,7 +4,7 @@ import socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 # Define the address and port to send the message to
-server_address = ('127.0.0.1', 34254)
+server_address = ('192.168.168.137', 34254)  # Replace with the actual IP address of your Mac
 
 # Send a test message
 message = b'Test Message'
